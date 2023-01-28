@@ -106,7 +106,7 @@ h2 {
     width: 280px;
     /* border: 2px solid rgb(20, 207, 60); */
     background: #FAFAFA;
-    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.174);
+    box-shadow: 1px 8px 24px rgba(0, 0, 0, 0.304);
     border-radius: 20px;
 }
 
@@ -175,6 +175,7 @@ footer{
     display: flex;
     justify-content: space-between;
     margin-top: 80px;
+    margin-bottom: 40px;
     align-items: center;
 }
 .number_2 {
